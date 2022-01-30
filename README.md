@@ -16,3 +16,28 @@ Pictures of them with cigarettes
 Text that gives a rude and/or negative result
 
 All of this data collection would be legal, as everything would be public information.
+
+It's about risk. Home owners and renters cover things like fire, flooding, hail damage, etc.  For life insurance that's the risk of you passing away early.
+So, what kinds of things make it less likely to have a fire, or have your home flooded, as examples. Being healthier makes you live longer.
+
+home owners and renters insurance :
+
+check location,
+
+find if theres any weather issues in the past within that location
+
+find if there is usage of parties within their social media
+
+find if there is talk of parties in their social media
+
+life insurance :
+
+check  social medias based off of their public username
+
+attempt to match that social media with their face, if possible
+
+
+
+For driving (that reference point). We will get data like whether or not you are slamming your brakes, how long are your average trips (are you driving more), are you taking off really fast, etc. 
+
+

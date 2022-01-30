@@ -1,0 +1,6 @@
+[submodule "healthkit-data-parser"]
+	path = healthkit-data-parser
+	url = https://github.com/hiimivantang/healthkit-data-parser.git
+[submodule "SpyScrap"]
+	path = SpyScrap
+	url = https://github.com/RuthGnz/SpyScrap.git
